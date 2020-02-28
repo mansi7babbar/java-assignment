@@ -1,5 +1,9 @@
 package com.knoldus;
 
+import com.knoldus.operation.PerformOperation;
+import com.knoldus.user.User;
+import com.knoldus.user.UserOps;
+
 import java.util.Arrays;
 import java.util.List;
 

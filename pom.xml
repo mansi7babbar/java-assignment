@@ -245,7 +245,7 @@
                 <version>1.6.0</version>
                 <configuration>
                     <executable>java</executable>
-                    <mainClass>com.knoldus.AppDriver</mainClass>
+<!--                    <mainClass>com.knoldus.AppDriver</mainClass>-->
                 </configuration>
                 <executions>
                     <execution>

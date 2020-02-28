@@ -1,7 +1,7 @@
-package com.knoldus;
+package com.knoldus.operation;
 
 @FunctionalInterface
-interface Operation {
+public interface Operation {
 
     /**
      * Contains abstract method which takes five parameters of Integer type.

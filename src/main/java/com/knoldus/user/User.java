@@ -1,10 +1,10 @@
-package com.knoldus;
+package com.knoldus.user;
 
 /**
  * Contains elements id, name, city, age.
  * Overrides toString method.
  */
-class User {
+public class User {
     int id;
     String name;
     String city;
