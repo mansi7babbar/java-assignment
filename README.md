@@ -15,17 +15,18 @@ Assignment 3. Given two lists of integers, list1 and list 2. Create a list of mu
 
 Assignment 4. There is a class User with the following fields.
 
-
-Id
-Name
-Address (city name)
-Age
-
+- Id
+- Name
+- Address (city name)
+- Age
 
 Create a sample list of users and perform the below mentioned operations.
-Keep in mind:
+
 List out all the users with age above 18 and address Delhi.
+
 List out all the users with id greater than 10 and age less than 20.
+
 List out all the users with age as even number.
+
 List out all the users with age equals to 18 and address Delhi.
 
