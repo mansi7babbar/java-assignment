@@ -29,5 +29,3 @@ List out all the users with id greater than 10 and age less than 20.
 List out all the users with age as even number.
 
 List out all the users with age equals to 18 and address Delhi.
-
-
